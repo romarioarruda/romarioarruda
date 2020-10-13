@@ -1,17 +1,12 @@
 ### Oi pessoal, Romário aqui. 👋
 
-<!--
-**romarioarruda/romarioarruda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 Atualmente, trabalho na Fábrica de Idéias [http://www.fabricadeideias.com.br/]
 mais especificamente na construção e manutenção de web crawlers e no desenvolvimento de sistemas.
-- 🌱 Estou reforçando meus conhecimentos na stack atual ...
-- 👯 Gosto de está criando algo com alguma frequência, no intuito de aprender e poder ajudar.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Gosto de Gosto de reforçando meus conhecimentos na stack atual ...
+- 👯 Gosto de estar criando algo com alguma frequência, no intuito de aprender e poder ajudar.
+
+### Minha Stack:
+
+My Stacks:
+
+badge-php badge-js badge-python badge-shell badge-sql badge-html5 badge-css3
