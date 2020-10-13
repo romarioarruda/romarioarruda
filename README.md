@@ -34,7 +34,7 @@ Gosto de estar criando algo com alguma frequência, no intuito de aprender e pod
   </a>
   
   <a href="https://www.linkedin.com/in/rom%C3%A1rio-arruda/">
-      <img src="https://camo.githubusercontent.com/7ea515d2827c69cd00b9009798b7bdd2d9446629/68747470733a2f2f73696d706c6569636f6e732e6f72672f69636f6e732f6c696e6b6564696e2e737667" alt="linkedin_logo" title="Perfil do Linkedin">
+      <img src="https://camo.githubusercontent.com/7ea515d2827c69cd00b9009798b7bdd2d9446629/68747470733a2f2f73696d706c6569636f6e732e6f72672f69636f6e732f6c696e6b6564696e2e737667" width="100" height="50" alt="linkedin_logo" title="Perfil do Linkedin">
   </a>
 
 </p>
