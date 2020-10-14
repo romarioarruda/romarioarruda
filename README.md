@@ -39,7 +39,5 @@ Gosto de estar criando algo com alguma frequência, no intuito de aprender e pod
 
 </p>
 <p>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1cd0c79ca9df8a8ac3cd27e1ca8018f02b27c77b/68747470733a2f2f67697465652e636f6d2f736b796b65796a6f6b65722f506963436c6f75642f7261772f6d61737465722f696d672f64696e6f2e676966">
-      <img src="https://camo.githubusercontent.com/1cd0c79ca9df8a8ac3cd27e1ca8018f02b27c77b/68747470733a2f2f67697465652e636f6d2f736b796b65796a6f6b65722f506963436c6f75642f7261772f6d61737465722f696d672f64696e6f2e676966" alt="dinosauro_gif">
-  </a>
+  <img src="https://camo.githubusercontent.com/1cd0c79ca9df8a8ac3cd27e1ca8018f02b27c77b/68747470733a2f2f67697465652e636f6d2f736b796b65796a6f6b65722f506963436c6f75642f7261772f6d61737465722f696d672f64696e6f2e676966" alt="dinosauro_gif">
 </p>
