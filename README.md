@@ -9,28 +9,29 @@ Gosto de estar criando algo com alguma frequência, no intuito de aprender e pod
 
 ### Minha Stack:
 <div>
-- PHP
-- Javascript
-- Python
-- Shell
-- SQL
-- HTML5
-- CSS3
-- Docker
-- Linux
-- MySQL
-- Vue.js
-- [Quasar framework](https://quasar.dev)
-- Vuetify.js
-- Jquery
-- Bootstrap
-- Laravel
-- [Flight PHP](https://flightphp.com)
+ <ul>
+    <li>PHP</li>
+    <li>Javascript</li>
+    <li>Python</li>
+    <li>Shell</li>
+    <li>SQL</li>
+    <li>HTML5</li>
+    <li>CSS3</li>
+    <li>Docker</li>
+    <li>Linux</li>
+    <li>MySQL</li>
+    <li>Vue.js</li>
+    <li>[Quasar framework](https://quasar.dev)</li>
+    <li>Vuetify.js</li>
+    <li>Jquery</li>
+    <li>Bootstrap</li>
+    <li>Laravel</li>
+    <li></li>[Flight PHP](https://flightphp.com)</li>
+</ul>
 
-
-<p>
-    <img src="https://camo.githubusercontent.com/b5a4a8e12cdfb0a3fa86f9e5762a84f3f5ec95bf/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966" alt="code_gif">
-</p>
+    <p>
+        <img src="https://camo.githubusercontent.com/b5a4a8e12cdfb0a3fa86f9e5762a84f3f5ec95bf/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966" alt="code_gif">
+    </p>
 </div>
 
 
