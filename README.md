@@ -28,6 +28,7 @@ Gosto de estar criando algo com alguma frequência, no intuito de aprender e pod
  
 <img src="https://camo.githubusercontent.com/b5a4a8e12cdfb0a3fa86f9e5762a84f3f5ec95bf/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966" alt="code_gif">
 
+<hr/>
 ### Perfil
 <p>
   <a href="https://profile-summary-for-github.com/user/romarioarruda">
@@ -37,8 +38,8 @@ Gosto de estar criando algo com alguma frequência, no intuito de aprender e pod
   <a href="https://www.linkedin.com/in/rom%C3%A1rio-arruda/">
       <img src="https://camo.githubusercontent.com/7ea515d2827c69cd00b9009798b7bdd2d9446629/68747470733a2f2f73696d706c6569636f6e732e6f72672f69636f6e732f6c696e6b6564696e2e737667" width="100" height="50" alt="linkedin_logo" title="Perfil do Linkedin">
   </a>
-
 </p>
+<hr/>
 <p>
   <img src="https://camo.githubusercontent.com/1cd0c79ca9df8a8ac3cd27e1ca8018f02b27c77b/68747470733a2f2f67697465652e636f6d2f736b796b65796a6f6b65722f506963436c6f75642f7261772f6d61737465722f696d672f64696e6f2e676966" alt="dinosauro_gif">
 </p>
