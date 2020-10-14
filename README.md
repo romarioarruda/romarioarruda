@@ -8,6 +8,7 @@ Estou reforçando meus conhecimentos na stack atual
 Gosto de estar criando algo com alguma frequência, no intuito de aprender e poder melhorar.
 
 ### Minha Stack:
+<div>
 - PHP
 - Javascript
 - Python
@@ -30,6 +31,7 @@ Gosto de estar criando algo com alguma frequência, no intuito de aprender e pod
 <p>
     <img src="https://camo.githubusercontent.com/b5a4a8e12cdfb0a3fa86f9e5762a84f3f5ec95bf/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966" alt="code_gif">
 </p>
+</div>
 
 
 ### Perfil
