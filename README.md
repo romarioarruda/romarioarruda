@@ -8,7 +8,6 @@ Estou reforçando meus conhecimentos na stack atual
 Gosto de estar criando algo com alguma frequência, no intuito de aprender e poder melhorar.
 
 ### Minha Stack:
-<div>
  <ul>
     <li>PHP</li>
     <li>Javascript</li>
@@ -21,16 +20,17 @@ Gosto de estar criando algo com alguma frequência, no intuito de aprender e pod
     <li>Linux</li>
     <li>MySQL</li>
     <li>Vue.js</li>
+    <li>[Quasar framework](https://quasar.dev)</li>
     <li>Vuetify.js</li>
     <li>Jquery</li>
     <li>Bootstrap</li>
     <li>Laravel</li>
+    <li>[Flight PHP](https://flightphp.com)</li>
 </ul>
-
-    <p>
-        <img src="https://camo.githubusercontent.com/b5a4a8e12cdfb0a3fa86f9e5762a84f3f5ec95bf/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966" alt="code_gif">
-    </p>
-</div>
+ 
+ <p>
+    <img src="https://camo.githubusercontent.com/b5a4a8e12cdfb0a3fa86f9e5762a84f3f5ec95bf/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966" alt="code_gif">
+</p>
 
 
 ### Perfil
