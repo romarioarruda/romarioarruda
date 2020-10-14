@@ -21,12 +21,10 @@ Gosto de estar criando algo com alguma frequência, no intuito de aprender e pod
     <li>Linux</li>
     <li>MySQL</li>
     <li>Vue.js</li>
-    <li>[Quasar framework](https://quasar.dev)</li>
     <li>Vuetify.js</li>
     <li>Jquery</li>
     <li>Bootstrap</li>
     <li>Laravel</li>
-    <li>[Flight PHP](https://flightphp.com)</li>
 </ul>
 
     <p>
