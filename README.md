@@ -26,7 +26,7 @@ Gosto de estar criando algo com alguma frequência, no intuito de aprender e pod
     <li>Jquery</li>
     <li>Bootstrap</li>
     <li>Laravel</li>
-    <li></li>[Flight PHP](https://flightphp.com)</li>
+    <li>[Flight PHP](https://flightphp.com)</li>
 </ul>
 
     <p>
