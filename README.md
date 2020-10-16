@@ -8,7 +8,7 @@ Estou reforçando meus conhecimentos na stack atual
 Gosto de estar criando algo com alguma frequência, no intuito de aprender e poder melhorar.
 
 
-### Minha Stack:  <img src="https://camo.githubusercontent.com/7ec011bc3e41ab177db1946c5d64c85823c6cac3/68747470733a2f2f67697465652e636f6d2f736b796b65796a6f6b65722f506963436c6f75642f7261772f6d61737465722f696d672f4d6172696f5f48656c6c6f5f4269672e676966" alt="mario_bros_logo" width="43">
+### Minha Stack:  <img src="https://media1.tenor.com/images/a0df220b2f0a356afee914caf1eed168/tenor.gif" alt="mario_bros_gif" width="43">
 
 
 <hr/>
