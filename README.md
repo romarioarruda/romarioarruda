@@ -38,7 +38,7 @@ Gosto de estar criando algo com alguma frequência, no intuito de aprender e pod
     <img src="https://codigosimples.net/wp-content/uploads/2014/04/web-300x175.png" alt="logo_js" width="100" title="JS, HTML5, CSS3">
     &#160;
     &#160;
-    <img src="https://seeklogo.com/images/G/gulp-logo-415632861B-seeklogo.com.png" alt="logo_gulp" width="50" height="80" title="JS, HTML5, CSS3">
+    <img src="https://seeklogo.com/images/G/gulp-logo-415632861B-seeklogo.com.png" alt="logo_gulp" width="50" height="80" title="Gulp">
     &#160;
     &#160;
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="logo_vue" width="60" title="Vue.js">
@@ -55,7 +55,6 @@ Gosto de estar criando algo com alguma frequência, no intuito de aprender e pod
     &#160;
     <img src="https://p.kindpng.com/picc/s/485-4850258_bootstrap-logo-png-image-free-download-searchpng-logos.png" alt="logo_bootstrap" width="50" title="Bootstrap">
 </p>
-
 <hr/>
 
 <img src="https://camo.githubusercontent.com/b5a4a8e12cdfb0a3fa86f9e5762a84f3f5ec95bf/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966" alt="code_gif">
