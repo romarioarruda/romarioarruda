@@ -3,9 +3,9 @@
 Atualmente, trabalho na [Fábrica de Idéias](http://www.fabricadeideias.com.br)
 mais especificamente na construção e manutenção de web crawlers e no desenvolvimento de sistemas e aplicações pra web.
 
-Estou reforçando meus conhecimentos na stack atual
+Gosto muito de programação e hacking
 
-Gosto de estar criando algo com alguma frequência, no intuito de aprender e poder melhorar.
+Estudo muito pra melhorar meus conhecimentos e habilidades técnicas.
 
 
 ### Minha Stack:
