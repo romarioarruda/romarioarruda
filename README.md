@@ -16,7 +16,7 @@ Gosto de estar criando algo com alguma frequência, no intuito de aprender e pod
     <img src="https://www.php.net/images/logos/new-php-logo.png" alt="logo_php" width="80" title="PHP" left="20">
     &#160;
     &#160;
-    <img src="https://kinsta.com/pt/wp-content/uploads/sites/3/2018/09/flightphp.png" alt="logo_flight" width="80" title="Microframework PHP" left="20">
+    <img src="https://kinsta.com/pt/wp-content/uploads/sites/3/2018/09/flightphp.png" alt="logo_flight" width="100" title="Microframework PHP" left="20">
     &#160;
     &#160;
     <img src="https://laravel.com/img/logomark.min.svg" alt="logo_laravel" width="50" title="Laravel">
