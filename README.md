@@ -12,23 +12,22 @@ Gosto de estar criando algo com alguma frequência, no intuito de aprender e pod
 
 <hr/>
 
-
 <p>
-    <img src="https://www.php.net/images/logos/new-php-logo.png" alt="logo_php" width="50" title="PHP">
-    <img src="https://laravel.com/img/logomark.min.svg" alt="logo_laravel" width="50" title="Laravel">
-    <img src="https://covid.romarioarruda.dev/statics/logos/javascript.png" alt="logo_js" width="50" title="JS">
-    <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="logo_css" width="50" title="CSS3">
-    <img src="https://www.w3.org/html/logo/img/html5-topper.png" alt="logo_html5" width="50" title="HTML5">
-    <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="logo_python" width="50" title="Python">
-    <img src="https://bashlogo.com/img/logo/jpg/full_colored_light.jpg" alt="logo_shell" width="50" title="Shell script">
-    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="logo_Mysql" width="50">
-    <img src="https://covid.romarioarruda.dev/statics/logos/docker.png" alt="logo_gif" width="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="logo_linux" width="50" title="Linux">
-    <img src="https://covid.romarioarruda.dev/statics/logos/vue.png" alt="logo_vue" width="50">
-    <img src="https://covid.romarioarruda.dev/statics/logos/quasar.png" alt="logo_quasar" width="50">
-    <img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-light-text.svg" alt="logo_vuetify" width="50">
-    <img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" alt="logo_jquery" width="50">
-    <img src="https://p.kindpng.com/picc/s/485-4850258_bootstrap-logo-png-image-free-download-searchpng-logos.png" alt="logo_bootstrap" width="50">
+    <img src="https://www.php.net/images/logos/new-php-logo.png" alt="logo_php" width="80" title="PHP">
+    <img src="https://laravel.com/img/logomark.min.svg" alt="logo_laravel" width="80" title="Laravel">
+    <img src="https://covid.romarioarruda.dev/statics/logos/javascript.png" alt="logo_js" width="80" title="JS">
+    <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="logo_css" width="80" title="CSS3">
+    <img src="https://www.w3.org/html/logo/img/html5-topper.png" alt="logo_html5" width="80" title="HTML5">
+    <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="logo_python" width="80" title="Python">
+    <img src="https://bashlogo.com/img/logo/jpg/full_colored_light.jpg" alt="logo_shell" width="80" title="Shell script">
+    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="logo_Mysql" width="80">
+    <img src="https://covid.romarioarruda.dev/statics/logos/docker.png" alt="logo_gif" width="80">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="logo_linux" width="80" title="Linux">
+    <img src="https://covid.romarioarruda.dev/statics/logos/vue.png" alt="logo_vue" width="80">
+    <img src="https://covid.romarioarruda.dev/statics/logos/quasar.png" alt="logo_quasar" width="80">
+    <img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-light-text.svg" alt="logo_vuetify" width="80">
+    <img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" alt="logo_jquery" width="80">
+    <img src="https://p.kindpng.com/picc/s/485-4850258_bootstrap-logo-png-image-free-download-searchpng-logos.png" alt="logo_bootstrap" width="80">
 </p>
 
 
