@@ -1,7 +1,7 @@
 ### Oi pessoal, Romário aqui. 👋
 
 Atualmente, trabalho na [Fábrica de Idéias](http://www.fabricadeideias.com.br)
-mais especificamente na construção e manutenção de web crawlers e no desenvolvimento de sistemas.
+mais especificamente na construção e manutenção de web crawlers e no desenvolvimento de sistemas e aplicações pra web.
 
 Estou reforçando meus conhecimentos na stack atual
 
