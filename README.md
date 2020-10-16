@@ -25,32 +25,32 @@ Gosto de estar criando algo com alguma frequência, no intuito de aprender e pod
     <img src="https://bashlogo.com/img/logo/jpg/full_colored_light.jpg" alt="logo_shell" width="80" title="Shell script">
     &#160;
     &#160;
-    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="logo_mysql" width="80">
+    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="logo_mysql" width="80" title="MySQL">
     &#160;
     &#160;
-    <img src="https://blog.geekhunter.com.br/wp-content/uploads/2019/06/docker-na-pratica-como-construir-uma-aplicacao-2.png" alt="logo_docker" width="80">
+    <img src="https://blog.geekhunter.com.br/wp-content/uploads/2019/06/docker-na-pratica-como-construir-uma-aplicacao-2.png" alt="logo_docker" width="80" title="Docker">
     &#160;
     &#160;
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="logo_linux" width="50" title="Linux">
 </p>
 
 <p>
-    <img src="https://codigosimples.net/wp-content/uploads/2014/04/web-300x175.png" alt="logo_js" width="100" title="JS">
+    <img src="https://codigosimples.net/wp-content/uploads/2014/04/web-300x175.png" alt="logo_js" width="100" title="JS, HTML5, CSS3">
     &#160;
     &#160;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="logo_vue" width="60">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="logo_vue" width="60" title="Vue.js">
     &#160;
     &#160;
-    <img src="https://covid.romarioarruda.dev/statics/logos/quasar.png" alt="logo_quasar" width="130" height="70">
+    <img src="https://covid.romarioarruda.dev/statics/logos/quasar.png" alt="logo_quasar" width="130" height="70" title="Quasar framework">
     &#160;
     &#160;
-    <img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-light-text.svg" alt="logo_vuetify" width="140" height="50">
+    <img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-light-text.svg" alt="logo_vuetify" width="140" height="50" title="Vuetify">
     &#160;
     &#160;
-    <img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" alt="logo_jquery" width="100">
+    <img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" alt="logo_jquery" width="100" title="jQuery">
     &#160;
     &#160;
-    <img src="https://p.kindpng.com/picc/s/485-4850258_bootstrap-logo-png-image-free-download-searchpng-logos.png" alt="logo_bootstrap" width="50">
+    <img src="https://p.kindpng.com/picc/s/485-4850258_bootstrap-logo-png-image-free-download-searchpng-logos.png" alt="logo_bootstrap" width="50" title="Bootstrap">
 </p>
 
 
