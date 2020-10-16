@@ -41,13 +41,13 @@ Gosto de estar criando algo com alguma frequência, no intuito de aprender e pod
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="logo_vue" width="60">
     &#160;
     &#160;
-    <img src="https://covid.romarioarruda.dev/statics/logos/quasar.png" alt="logo_quasar" width="80">
+    <img src="https://covid.romarioarruda.dev/statics/logos/quasar.png" alt="logo_quasar" width="130" height="70">
     &#160;
     &#160;
     <img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-light-text.svg" alt="logo_vuetify" width="140" height="50">
     &#160;
     &#160;
-    <img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" alt="logo_jquery" width="80">
+    <img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" alt="logo_jquery" width="100">
     &#160;
     &#160;
     <img src="https://p.kindpng.com/picc/s/485-4850258_bootstrap-logo-png-image-free-download-searchpng-logos.png" alt="logo_bootstrap" width="50">
