@@ -60,6 +60,9 @@ Gosto de estar criando algo com alguma frequência, no intuito de aprender e pod
     &#160;
     &#160;
     <img src="https://p.kindpng.com/picc/s/485-4850258_bootstrap-logo-png-image-free-download-searchpng-logos.png" alt="logo_bootstrap" width="50" title="Bootstrap">
+    &#160;
+    &#160;
+    <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042013/npm_0.png?itok=0Jst3N3-" alt="logo_npm" width="50" title="Npm">
 </p>
 
 <hr/>
