@@ -34,6 +34,9 @@ Gosto de estar criando algo com alguma frequência, no intuito de aprender e pod
     <img src="https://blog.geekhunter.com.br/wp-content/uploads/2019/06/docker-na-pratica-como-construir-uma-aplicacao-2.png" alt="logo_docker" width="80" title="Docker">
     &#160;
     &#160;
+    <img src="https://getcomposer.org/img/logo-composer-transparent.png" alt="logo_composer" width="50" title="Composer">
+    &#160;
+    &#160;
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="logo_linux" width="50" title="Linux">
 </p>
 
