@@ -13,9 +13,9 @@ Gosto de estar criando algo com alguma frequência, no intuito de aprender e pod
 <hr/>
 
 <p>
-    <img src="https://www.php.net/images/logos/new-php-logo.png" alt="logo_php" width="80" title="PHP">
+    <img src="https://www.php.net/images/logos/new-php-logo.png" alt="logo_php" width="80" title="PHP" left="20">
     <img src="https://laravel.com/img/logomark.min.svg" alt="logo_laravel" width="50" title="Laravel">
-    <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="logo_python" width="80" title="Python">
+    <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="logo_python" width="140" height="50 title="Python">
     <img src="https://bashlogo.com/img/logo/jpg/full_colored_light.jpg" alt="logo_shell" width="80" title="Shell script">
     <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="logo_mysql" width="80">
     <img src="https://covid.romarioarruda.dev/statics/logos/docker.png" alt="logo_docker" width="80">
