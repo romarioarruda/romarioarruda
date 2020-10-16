@@ -41,7 +41,7 @@ Gosto de estar criando algo com alguma frequência, no intuito de aprender e pod
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="logo_linux" width="50" title="Linux">
     &#160;
     &#160;
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="logo_git" width="50" title="Git">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="logo_git" width="60" title="Git">
 </p>
 
 <p>
