@@ -16,6 +16,9 @@ Gosto de estar criando algo com alguma frequência, no intuito de aprender e pod
     <img src="https://www.php.net/images/logos/new-php-logo.png" alt="logo_php" width="80" title="PHP" left="20">
     &#160;
     &#160;
+    <img src="https://kinsta.com/pt/wp-content/uploads/sites/3/2018/09/flightphp.png" alt="logo_flight" width="80" title="Microframework PHP" left="20">
+    &#160;
+    &#160;
     <img src="https://laravel.com/img/logomark.min.svg" alt="logo_laravel" width="50" title="Laravel">
     &#160;
     &#160;
@@ -55,6 +58,7 @@ Gosto de estar criando algo com alguma frequência, no intuito de aprender e pod
     &#160;
     <img src="https://p.kindpng.com/picc/s/485-4850258_bootstrap-logo-png-image-free-download-searchpng-logos.png" alt="logo_bootstrap" width="50" title="Bootstrap">
 </p>
+
 <hr/>
 
 <img src="https://camo.githubusercontent.com/b5a4a8e12cdfb0a3fa86f9e5762a84f3f5ec95bf/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966" alt="code_gif">
