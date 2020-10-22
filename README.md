@@ -8,7 +8,7 @@ Gosto muito de programação, hacking e segurança da informação.
 Estudo muito pra melhorar meus conhecimentos e habilidades técnicas, tanto em programação quanto na segurança da aplicação.
 
 
-### Minha Stack:
+### Skills:
 
 
 <hr/>
