@@ -1,11 +1,9 @@
 ### Oi pessoal, Romário aqui. 👋
 
 Atualmente, trabalho na [Fábrica de Idéias](http://www.fabricadeideias.com.br)
-mais especificamente na construção e manutenção de web crawlers e no desenvolvimento de sistemas e aplicações pra web.
+mais especificamente no desenvolvimento e manutenção de web crawlers e no desenvolvimento de sistemas e aplicações pra web.
 
 Gosto muito de programação, hacking e segurança da informação.
-
-Estudo muito pra melhorar meus conhecimentos e habilidades técnicas, tanto em programação quanto na segurança da aplicação.
 
 
 ### Skills:
