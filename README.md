@@ -1,9 +1,9 @@
-### Oi pessoal, Romário aqui. 👋
+### Hey there, Romário here. 👋
 
-Atualmente, trabalho na [Fábrica de Idéias](http://www.fabricadeideias.com.br)
-mais especificamente no desenvolvimento e manutenção de web crawlers e no desenvolvimento de sistemas e aplicações pra web.
+Currently i'm work the at [Fábrica de Idéias](http://www.fabricadeideias.com.br)
+especially in the development and maintenance of web crawlers and systems and application for web.
 
-Gosto muito de programação, hacking e segurança da informação.
+I love programming, hacking and cybersecurity.
 
 
 ### Skills:
@@ -78,7 +78,7 @@ Gosto muito de programação, hacking e segurança da informação.
 
 <hr/>
 
-### Perfil
+### Profile
 <p>
   <a href="https://profile-summary-for-github.com/user/romarioarruda">
     <img src="https://camo.githubusercontent.com/fd57212e5375a45e23cc44625a982540cb3a5444/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3636342f3939382f706e672d7472616e73706172656e742d7069652d63686172742d636f6d70757465722d69636f6e732d636972636c652d6d6f6e6f6368726f6d652d67726170682d6f662d612d66756e6374696f6e2d7069652e706e67" width="90" height="50" title="Sumário" alt="sumario">
