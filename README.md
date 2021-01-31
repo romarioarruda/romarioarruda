@@ -1,7 +1,7 @@
 ### Hey there, Romário here. 👋
 
-Currently i'm work the at [Fábrica de Idéias](http://www.fabricadeideias.com.br)
-especially in the development and maintenance of web crawlers and systems and application for web.
+I currently work at [Fábrica de Idéias](http://www.fabricadeideias.com.br)
+especially in the development and maintenance of web crawlers, systems and application for web.
 
 I love programming, hacking and cybersecurity.
 
