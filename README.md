@@ -21,7 +21,7 @@ I love programming, hacking and cybersecurity.
     <img src="https://laravel.com/img/logomark.min.svg" alt="logo_laravel" width="50" title="Laravel">
     &#160;
     &#160;
-    <img src="https://nodejs.org/static/images/logo.svg" alt="logo_node" width="50" padding="10" bg-color="#000" title="Node.js">
+    <img src="https://nodejs.org/static/images/logo.svg" alt="logo_node" width="50" style="background-color:#000; padding:10px" title="Node.js">
     &#160;
     &#160;
     <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="logo_python" width="140" height="50" title="Python">
