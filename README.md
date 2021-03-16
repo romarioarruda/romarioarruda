@@ -8,7 +8,7 @@
   <p><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> See more about me on <a href="https://romarioarruda.dev" rel="nofollow">romarioarruda.dev</a></p>  
 </li>
 <li>
-<p><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about <strong>anything</strong> in <a href="https://www.linkedin.com/in/romário-arruda/" rel="nofollow">linkedin/romário-arruda</a></p>
+<p><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about <strong>anything</strong> on <a href="https://www.linkedin.com/in/romário-arruda/" rel="nofollow">linkedin</a></p>
 </li>
 </ul>
 </article>
