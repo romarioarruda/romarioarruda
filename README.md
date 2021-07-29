@@ -31,6 +31,7 @@
         <img alt="jquery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
         <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;" width="40" height="30" align="middle">
         <img alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
+        <img alt="linux" src="https://seeklogo.com/images/L/Linux-logo-CFCA1C571C-seeklogo.com.png" style="max-width:100%;" width="40" height="33" align="middle">
     </div>
     <br>
     <hr/>
