@@ -55,6 +55,6 @@
     <hr/>
     <h3>Timeline Jobs</h3>
     <hr/>
-    <img src="https://github.com/romarioarruda/curso-typescript/blob/master/timeline_jobs.png" alt="Timeline jobs" style="max-width:100%;">
+    <p><img src="https://github.com/romarioarruda/curso-typescript/blob/master/timeline_jobs.png" alt="Timeline jobs" style="max-width:100%;"/></p>
 </div>
 </article>
