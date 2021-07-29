@@ -30,8 +30,16 @@
         <img alt="bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
         <img alt="jquery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
         <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;" width="40" height="30" align="middle">
+        <img alt="bash" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
+        <img alt="graphql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
+        <br><br>
         <img alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
-        <img alt="linux" src="https://seeklogo.com/images/L/Linux-logo-CFCA1C571C-seeklogo.com.png" style="max-width:100%;" width="40" height="33" align="middle">
+        <img alt="linux" src="https://seeklogo.com/images/L/Linux-logo-CFCA1C571C-seeklogo.com.png" style="max-width:100%;" width="40" height="37" align="middle">
+        <img alt="apache" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-plain.svg" style="max-width:100%;" width="40" height="37" align="middle">
+        <img alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
+        <img alt="postgres" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
+        <img alt="mongodb" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
+        <img alt="redis" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
     </div>
     <br>
     <hr/>
