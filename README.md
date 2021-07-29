@@ -13,8 +13,8 @@
 <div data-target="readme-toc.content" class="Box-body px-5 pb-5">
     <div>
         <a href="https://github.com/romarioarruda">
-            <img src="https://github-readme-stats.vercel.app/api?username=romarioarruda&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=romarioarruda&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;" height="180em">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romarioarruda&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=romarioarruda&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width:100%;" height="180em">
+            <img src="https://github-readme-stats.vercel.app/api?username=romarioarruda&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=romarioarruda&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width:50%;" height="180em">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romarioarruda&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=romarioarruda&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width:50%;" height="180em">
         </a>
     </div>
     <hr/>
