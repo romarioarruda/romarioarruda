@@ -8,33 +8,39 @@
 <p><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Learn <strong>programming</strong> and <strong>web development</strong> at <a href="https://www.cod3r.com.br/?ref=7d34cc" rel="nofollow">Cod3r</a></p>
 </li>
 </ul>
-  
+
+<hr/>
 <div data-target="readme-toc.content" class="Box-body px-5 pb-5">
-<div>
-<a href="https://github.com/romarioarruda">
-    <img src="https://github-readme-stats.vercel.app/api?username=romarioarruda&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=romarioarruda&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;" height="180em">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romarioarruda&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=romarioarruda&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width:100%;" height="180em">
-</a>
-</div><a href="https://github.com/romarioarruda">
-<div><br>
-  <img alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
-  <img alt="Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
-  <img alt="Ts" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
-  <img alt="vue" src="https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67" style="max-width:100%;" width="35" height="30" align="middle">
-  <img alt="laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" style="max-width:100%;" width="35" height="30" align="middle">
-  <img alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;" width="40" height="30" align="middle">
-  <img alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;" width="40" height="30" align="middle">
-  <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;" width="40" height="30" align="middle">
-</div>
-<br>
-<div>
-    <a href="https://github.com/romarioarruda"></a>
-    <a href="https://instagram.com/romario.dev/" rel="nofollow"><img src="https://camo.githubusercontent.com/acaa286597b43c96dc02b69b90de15a65c52063e31835b763a061cc815f64bac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width:100%;"></a>
-    <a href="mailto:romarioarruda98@gmail.com"><img src="https://camo.githubusercontent.com/927d6b3961fa048ff7303daf291cb5869dfa25018997cf8c1373c2f6a85b1458/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width:100%;"></a>
-    <a href="https://www.linkedin.com/in/rom%C3%A1rio-arruda/" rel="nofollow"><img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"></a> 
-    <p>
-        <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width:100%;">
-    </p>
-</div>
+    <div>
+        <a href="https://github.com/romarioarruda">
+            <img src="https://github-readme-stats.vercel.app/api?username=romarioarruda&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=romarioarruda&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;" height="180em">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romarioarruda&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=romarioarruda&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width:100%;" height="180em">
+        </a>
+    </div>
+    <hr/>
+    <div><br>
+        <img alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
+        <img alt="Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
+        <img alt="Ts" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
+        <img alt="node" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
+        <img alt="vue" src="https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67" style="max-width:100%;" width="35" height="30" align="middle">
+        <img alt="laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" style="max-width:100%;" width="35" height="30" align="middle">
+        <img alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;" width="40" height="30" align="middle">
+        <img alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;" width="40" height="30" align="middle">
+        <img alt="bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
+        <img alt="jquery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
+        <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;" width="40" height="30" align="middle">
+        <img alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
+    </div>
+    <br>
+    <hr/>
+    <div>
+        <a href="https://instagram.com/romario.dev/" rel="nofollow"><img src="https://camo.githubusercontent.com/acaa286597b43c96dc02b69b90de15a65c52063e31835b763a061cc815f64bac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width:100%;"></a>
+        <a href="mailto:romarioarruda98@gmail.com"><img src="https://camo.githubusercontent.com/927d6b3961fa048ff7303daf291cb5869dfa25018997cf8c1373c2f6a85b1458/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width:100%;"></a>
+        <a href="https://www.linkedin.com/in/rom%C3%A1rio-arruda/" rel="nofollow"><img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"></a> 
+        <p>
+            <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width:100%;">
+        </p>
+    </div>
 </div>
 </article>
