@@ -40,6 +40,7 @@
         <img alt="postgres" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
         <img alt="mongodb" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
         <img alt="redis" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
+        <img alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
     </div>
     <br>
     <hr/>
