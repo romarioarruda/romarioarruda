@@ -41,6 +41,7 @@
         <img alt="mongodb" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
         <img alt="redis" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
         <img alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
+        <img alt="rabbitMQ" src="https://www.rabbitmq.com/img/logo-rabbitmq.svg" style="max-width:100%;" width="100" height="50" align="middle">
     </div>
     <br>
     <hr/>
