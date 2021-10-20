@@ -19,29 +19,36 @@
     </div>
     <hr/>
     <div><br>
-        <img alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
         <img alt="Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
-        <img alt="Ts" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
-        <img alt="node" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
-        <img alt="vue" src="https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67" style="max-width:100%;" width="35" height="30" align="middle">
-        <img alt="laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" style="max-width:100%;" width="35" height="30" align="middle">
         <img alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;" width="40" height="30" align="middle">
         <img alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;" width="40" height="30" align="middle">
+        <img alt="vue" src="https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67" style="max-width:100%;" width="35" height="30" align="middle">
         <img alt="bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
         <img alt="jquery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
-        <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;" width="40" height="30" align="middle">
-        <img alt="bash" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
         <img alt="graphql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
         <br><br>
-        <img alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
-        <img alt="linux" src="https://seeklogo.com/images/L/Linux-logo-CFCA1C571C-seeklogo.com.png" style="max-width:100%;" width="40" height="37" align="middle">
-        <img alt="apache" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-plain.svg" style="max-width:100%;" width="40" height="37" align="middle">
+        <img alt="bash" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" style="max-width:100%;" width="40" height="40" align="middle">
+        <img alt="composer" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" style="max-width:100%;" width="40" height="40" align="middle">
+        <img alt="npm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" style="max-width:100%;" width="40" height="30" align="middle">
+        <img alt="yarn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg" style="max-width:100%;" width="40" height="40" align="middle">
+        <br><br>
+        <img alt="Ts" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
+<img alt="node" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
+<img alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
+<img alt="laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" style="max-width:100%;" width="35" height="30" align="middle">
+<img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;" width="40" height="30" align="middle">
+        <br><br>
         <img alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
         <img alt="postgres" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
         <img alt="mongodb" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
         <img alt="redis" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
-        <img alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
-        <img alt="rabbitMQ" src="https://www.rabbitmq.com/img/logo-rabbitmq.svg" style="max-width:100%;" width="100" height="50" align="middle">
+        <br><br>
+        <img alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" style="max-width:100%;" width="40" height="30" align="middle">
+<img alt="linux" src="https://seeklogo.com/images/L/Linux-logo-CFCA1C571C-seeklogo.com.png" style="max-width:100%;" width="40" height="37" align="middle">
+<img alt="nginx" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="max-width:100%;" width="50" height="40" align="middle">
+<img alt="apache" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-plain.svg" style="max-width:100%;" width="40" height="37" align="middle">
+<img alt="rabbitMQ" src="https://www.rabbitmq.com/img/logo-rabbitmq.svg" style="max-width:100%;" width="100" height="50" align="middle">
+        <img alt="AWS" src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/aws-logo-blog-header.png?itok=t4o3meiH" style="max-width:100%;" width="70" height="40" align="middle">
     </div>
     <br>
     <hr/>
