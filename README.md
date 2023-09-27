@@ -14,4 +14,8 @@
         </a>
     </div>
 </div>
+<hr>
+<p dir="auto" title="Snake game by github.com/KainanGV">
+    <img width="860em" src="https://github.com/KainanGV/KainanGV/raw/output/github-contribution-grid-snake.svg" style="max-width: 100%;">
+</p>
 </article>
