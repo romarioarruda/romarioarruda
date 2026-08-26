@@ -3,7 +3,7 @@
 
 <h4 align="center">8+ years of experience across different industries around the globe.
 
-Specializes in Web Applications, Data platforms, Crawling and Scrappers, OCR, RAG-based pipelines and LLM observability, ETL pipelines and orchestration tools, micro-services and distributed systems.
+Specializes in Web Applications, Data platforms, Crawlers and Scrappers, OCR, RAG-based pipelines and LLM observability, ETL pipelines and orchestration tools, micro-services and distributed systems.
 </h4>
 <hr>
 <div data-target="readme-toc.content" class="Box-body px-5 pb-5">
